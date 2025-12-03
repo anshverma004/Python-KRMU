@@ -1,0 +1,20 @@
+
+CAMPUS ENERGY SUMMARY REPORT
+============================
+Generated: 2025-12-03 13:51
+
+KEY METRICS:
+- Total Campus Consumption: 16578 kWh
+- Highest Consumer: Library
+- Peak Reading: 263.4 kWh at 2024-01-02 04:00:00
+- Average Daily: 41.4 kWh
+
+RECOMMENDATIONS:
+• Audit Library for efficiency improvements
+• Schedule maintenance during off-peak hours
+• Monitor weekly trends for anomalies
+
+Files Generated:
+- cleaned_energy_data.csv (400 records)
+- building_summary.csv (4 buildings)
+- dashboard.png (4 charts)
